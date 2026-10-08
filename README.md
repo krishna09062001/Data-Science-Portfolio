@@ -1,2 +1,2 @@
-# Data-Science-Portfoilo
-My Projects Protfoilo
+# Data-Science-Portfolio
+My Projects Protfolio
